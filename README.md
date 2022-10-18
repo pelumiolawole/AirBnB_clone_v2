@@ -1,1 +1,1 @@
-An AirBnB project in alx school .
+AirBnB clone 2 +
